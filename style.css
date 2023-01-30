@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: #00b300;
+}
+button {
+  background-color: #3b873b;
+}
+.titlescreen {
+  display: block;
+  text-align:center;
+}
+.promptone {
+  display:none;
+  text-align:center;
+}
+.crimescene {
+  display:none;
+    text-align:center;
+}
+.endcivilian {
+  display:none;
+    text-align:center;
+}
+.letteraccept {
+  display:none;
+    text-align:center;
+}
